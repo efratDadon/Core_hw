@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "3p21sFpE6r5MTE8OY8E9870TklDwn+2eBo/PC+NEYT4=",
+  "Source": "projectList",
+  "BasePath": "_content/projectList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projectList\\wwwroot",
+      "Source": "projectList",
+      "ContentRoot": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\",
+      "BasePath": "_content/projectList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\css\\site.css",
+      "SourceId": "projectList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\",
+      "BasePath": "_content/projectList",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\index.html",
+      "SourceId": "projectList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\",
+      "BasePath": "_content/projectList",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\js\\site.js",
+      "SourceId": "projectList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\",
+      "BasePath": "_content/projectList",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

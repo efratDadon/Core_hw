@@ -1,0 +1,105 @@
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\appsettings.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\projectList.exe
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\projectList.deps.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\projectList.runtimeconfig.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.csproj.AssemblyReference.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.AssemblyInfoInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.AssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.csproj.CoreCompileInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets\msbuild.projectList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets\msbuild.build.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\scopedcss\bundle\projectList.styles.css
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectL.91424350.Up2Date
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\refint\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\projectList.genruntimeconfig.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\lesson2\projectList\obj\Debug\net8.0\ref\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.csproj.AssemblyReference.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.AssemblyInfoInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.AssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.csproj.CoreCompileInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.sourcelink.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\refint\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\appsettings.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Data\task.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.staticwebassets.runtime.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.exe
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.deps.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.runtimeconfig.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets\msbuild.projectList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets\msbuild.build.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\scopedcss\bundle\projectList.styles.css
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectL.91424350.Up2Date
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\projectList.genruntimeconfig.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\‏‏lesson3\projectList\obj\Debug\net8.0\ref\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\appsettings.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Data\task.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.staticwebassets.runtime.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.exe
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.deps.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.runtimeconfig.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.csproj.AssemblyReference.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.AssemblyInfoInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.AssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.csproj.CoreCompileInputs.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.sourcelink.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets\msbuild.projectList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets\msbuild.build.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projectList.props
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\scopedcss\bundle\projectList.styles.css
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectL.91424350.Up2Date
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\refint\projectList.dll
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.pdb
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\projectList.genruntimeconfig.cache
+C:\Users\ישראל דדון\Music\Desktop\תכנות אפרת\שנה ב\core\ביצוע שיעורי בית\lesson4\projectList\obj\Debug\net8.0\ref\projectList.dll

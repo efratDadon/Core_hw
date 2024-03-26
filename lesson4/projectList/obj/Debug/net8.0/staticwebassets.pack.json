@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\lesson4\\projectList\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.projectList.props",
+      "PackagePath": "build\\projectList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.projectList.props",
+      "PackagePath": "buildMultiTargeting\\projectList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.projectList.props",
+      "PackagePath": "buildTransitive\\projectList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.projectList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

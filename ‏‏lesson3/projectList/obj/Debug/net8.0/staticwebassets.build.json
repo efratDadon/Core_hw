@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5ENGaa/yBNSBipXk6+ljRqmvS4CTEaXNTIHfn29gOPM=",
+  "Source": "projectList",
+  "BasePath": "_content/projectList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projectList\\wwwroot",
+      "Source": "projectList",
+      "ContentRoot": "C:\\Users\\ישראל דדון\\Music\\Desktop\\תכנות אפרת\\שנה ב\\core\\ביצוע שיעורי בית\\‏‏lesson3\\projectList\\wwwroot\\",
+      "BasePath": "_content/projectList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
